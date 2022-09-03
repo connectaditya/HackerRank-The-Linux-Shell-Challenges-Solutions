@@ -14,6 +14,7 @@
 
 ## Description
 Solutions to all the easy, medium and hard challenges compiled with related learning resources for the Linux Shell Challenges on HackerRank. 
+* [HackerRank All Linux Shell Solutions](https://www.chase2learn.com/hackerrank-linux-shell-solutions/)
 
 Domains included: 
 * [Bash Challenges](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions#bash-challenges)
